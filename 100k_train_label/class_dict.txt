@@ -1,0 +1,1 @@
+{u'bus': 4, u'traffic light': 0, u'traffic sign': 1, u'person': 3, u'bike': 7, u'truck': 5, u'motor': 8, u'car': 2, u'train': 9, u'rider': 6}
