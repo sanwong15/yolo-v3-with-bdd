@@ -9,6 +9,11 @@ This repo is my side project that to develop a YOLOv3 object detection algo with
 
 (2) Train YOLOv3 network with yolov3 ready data -- [IN PROGRESS]
 
+# Training Command
+./darknet detector train cfg/bdd100k.data cfg/yolov3-tiny-bdd100k.cfg weight/darknet53.conv.74
+
+
+
 # Reference
 BDD100K : A Large-scale Diverse Driving Video Database
 https://bair.berkeley.edu/blog/2018/05/30/bdd/
