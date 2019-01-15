@@ -3,5 +3,5 @@ train  = /home/san/Dev/darknet/data/bdd100k/train.txt
 #valid  = coco_testdev
 valid = /home/san/Dev/darknet/data/bdd100k/val.txt
 names = /home/san/Dev/darknet/data/bdd100k/bdd100k.names
-backup = /home/user/Dev/darknet/backup/bdd100k
+backup = /home/san/Dev/darknet/backup/bdd100k
 #eval=coco
