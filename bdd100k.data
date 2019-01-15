@@ -1,7 +1,7 @@
 classes= 10
-train  = /home/user/Dev/darknet/data/bdd100k/train.txt
+train  = /home/san/Dev/darknet/data/bdd100k/train.txt
 #valid  = coco_testdev
-valid = /home/user/Dev/darknet/data/bdd100k/val.txt
-names = /home/user/Dev/darknet/data/bdd100k/bdd100k.names
-backup = /home/user/Dev/darknet/backup/bdd100k/
+valid = /home/san/Dev/darknet/data/bdd100k/val.txt
+names = /home/san/Dev/darknet/data/bdd100k/bdd100k.names
+backup = /home/user/Dev/darknet/backup/bdd100k
 #eval=coco
