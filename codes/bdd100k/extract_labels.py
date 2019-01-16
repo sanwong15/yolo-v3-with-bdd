@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+f = open(image_label_txt, "w+")
 import json
 import csv
 
@@ -29,7 +29,7 @@ for i in range(num_of_images):
     # Create a Text file for each image
     image_label_txt = str(image_name[:-4]) + ".txt"
     print("image_label_txt: ", image_label_txt)
-    f = open(image_label_txt, "w+")
+
 
 
     num_of_object_in_image = len(current_image['labels']) # In the type of dict
