@@ -100,7 +100,7 @@ for city in city_list:
                     current_vertice_x = current_vertice[0]
                     current_vertice_y = current_vertice[1]
 
-                    if 
+                    if
 
 
 

@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09b6c55c-308a-4f20-9066-f21d2cf1b412" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bdd100k.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bdd100k.names" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_train_val_dir.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_labels.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/val.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yolov3-bdd100k.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yolov3-tiny-bdd100k.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/cityscapes/extract_labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/cityscapes/extract_labels.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/codes/cityscapes/extract_labels.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="541">
-              <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
+              <caret line="102" column="22" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
               <folding>
                 <element signature="e#19#30#0" expanded="true" />
               </folding>
@@ -82,7 +75,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../darknet/cfg/yolov3-tiny-bdd100k.cfg" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -140,10 +133,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../darknet/backup/bdd100k/yolov3-tiny-bdd100k_final.weights">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-14355" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../darknet/cfg/yolov3-tiny-bdd100k.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="156" column="14" lean-forward="true" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/codes/cityscapes/extract_labels.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
-          <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
+          <caret line="102" column="22" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
           <folding>
             <element signature="e#19#30#0" expanded="true" />
           </folding>
